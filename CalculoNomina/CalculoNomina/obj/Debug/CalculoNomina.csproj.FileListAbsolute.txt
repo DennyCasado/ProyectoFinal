@@ -1,0 +1,18 @@
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.exe.config
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.exe
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.pdb
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.csprojResolveAssemblyReference.cache
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.Form1.resources
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.Properties.Resources.resources
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.csproj.GenerateResource.Cache
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.exe
+c:\users\soporte tecnico\documents\visual studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.pdb
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.exe.config
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.exe
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.pdb
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.exe
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\bin\Debug\CalculoNomina.pdb
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.csprojResolveAssemblyReference.cache
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.Form1.resources
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.Properties.Resources.resources
+C:\Users\Denny\Documents\Visual Studio 2012\Projects\CalculoNomina\CalculoNomina\obj\Debug\CalculoNomina.csproj.GenerateResource.Cache
